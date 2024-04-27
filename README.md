@@ -47,6 +47,6 @@ De acordo com o engajamento da galera, pretendo fazer mais um projeto onde todos
 
 Então, nesse período, o desafio será algo assim:
 
-Vocês deverão se juntar com 5 a 7 pessoas e tentar entregar um projeto para o portfólio colaborativo.
+Vocês deverão que se juntar com 5 a 7 pessoas e tentar entregar um projeto para o portfólio colaborativo.
 
 Não se preocupem, não precisa ser algo complexo. Caso muitas pessoas fiquem sem grupo, faremos um sorteio para incluí-las em algum.
