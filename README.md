@@ -27,7 +27,7 @@ A ideia do Gabriel é criarmos um repositório de código aberto, parecido com o
 
 Vini complementou essa ideia para criarmos um desafio de códigos. Finalmente, vamos criar uma plataforma de desafio de códigos, onde além de vocês poderem contribuir resolvendo código, também poderão contribuir criando desafios para a galera.
 
-Assim, vocês, como colaboradores, só têm que ficar atentos às recomendações de como contribuir no repositório colaborativo que terá o nome 'Eu aprendi a programar'.
+Assim, vocês, como colaboradores, só têm que ficar atentos às recomendações de como contribuir no repositório colaborativo que terá o nome "Eu aprendi a programar".
 
 Enfim, esse primeiro projeto vamos deixar em destaque no portfólio colaborativo da comunidade assim como os próximos.
 
