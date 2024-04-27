@@ -5,7 +5,7 @@
 
 ## Objetivo:
 
-🎯 Primeiro, essa iniciativa não é voltada apenas para Hard Skills, mas a ideia é mostrar que um grupo de desconhecidos conseguiu se unir e criar um grupo interativo, com uma comunidade animada e disposta a participar de forma voluntária.
+🎯 Primeiro, essa iniciativa não é voltada apenas para Hard Skills, mas a ideia é mostrar que varias pessoas desconhecidas do Bootcamp conseguiu se unir em um grupo interativo, com uma comunidade animada e disposta a participar de forma voluntária.
 
 Portanto, o foco do projeto é mostrar à comunidade trabalhando de forma colaborativa.
 
