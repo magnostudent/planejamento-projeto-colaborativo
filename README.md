@@ -1,5 +1,5 @@
 # Projeto colaborativo
-📌 Observação: Essas são apenas ideias iniciais.
+📌 Observação: Essas são apenas ideias iniciais e podem mudar.
 
 ---
 
@@ -7,7 +7,7 @@
 
 🎯 Primeiro, essa iniciativa não é voltada apenas para Hard Skills, mas a ideia é mostrar que um grupo de desconhecidos conseguiu se unir e criar um grupo interativo, com uma comunidade animada e disposta a participar de forma voluntária.
 
-Portanto, o foco do projeto é mostrar à comunidade  trabalhando de forma colaborativa.
+Portanto, o foco do projeto é mostrar à comunidade trabalhando de forma colaborativa.
 
 ---
 
@@ -21,28 +21,32 @@ Ela servirá apenas como vitrine para mostrar os projetos colaborativos que vamo
 
 ## Exemplo:
 
-⚙ Nosso primeiro projeto colaborativo será algo bem iniciante e para  todos.
+⚙ Nosso primeiro projeto colaborativo será algo bem iniciante e para todos.
 
-A ideia é criar um repositório de código aberto, parecido com o que vimos na aula de Git/GitHub.
+A ideia do Gabriel é criarmos um repositório de código aberto, parecido com o que vimos na aula de Git/GitHub. 
 
-Assim, vocês como  colaboradores terá apenas que criar uma pasta com alguns arquivos sobre lógica de programação, por exemplo, um arquivo onde você está praticando variáveis, outro arquivo praticando funções. 
+Vini complementou essa ideia para criarmos um desafio de códigos. Finalmente, vamos criar uma plataforma de desafio de códigos, onde além de vocês poderem contribuir resolvendo código, também poderão contribuir criando desafios para a galera.
 
-Depois, cole tudo na pasta e suba para o repositório colaborativo que terá o nome ‘Eu aprendi lógica de programação com o Java.
+Assim, vocês, como colaboradores, só têm que ficar atentos às recomendações de como contribuir no repositório colaborativo que terá o nome 'Eu aprendi a programar'.
 
-Enfim esse primeiro projeto, vamos deixar em destaque no portfólio colaborativo da comunidade assim como os próximos.
+Enfim, esse primeiro projeto vamos deixar em destaque no portfólio colaborativo da comunidade assim como os próximos.
 
-veja  um  exemplo abaixo de como  ficaria no portfolio da comunidade do  grupo, não olhe muito pro design, essa foto é apenas   uma  estrutura que vamos  melhorar quando  fazer a pagina 
+Veja um exemplo abaixo de como ficaria no portfólio da comunidade do grupo, não olhe muito para o designer, essa foto é apenas uma estrutura que vamos melhorar quando fizermos a página 
 
 ![rascunho_projeto](https://raw.githubusercontent.com/magnostudent/portfolio-colaborativo/main/img/rascunho_projeto.png)
 
 ---
 
-## Próximo passo:
+## Próximo passo 2:
+De acordo com o engajamento da galera, pretendo fazer mais um projeto onde todos possam colaborar e agregar valor.
 
-👣 Nesta fase, vocês já vão ter um pouco mais de entendimento e conhecimentos  graça ao seus estudos.
+---
 
-Então, agora o desafio é:
+## Próximo passo 3:
+👣 Nesta fase, vocês já estarão bem avançados no Bootcamp, e já terão um pouco mais de entendimento e conhecimento graças aos seus estudos.
 
-Junte-se com 5 a 7 pessoas e tente entregar um projeto para o portfólio colaborativo.
+Então, nesse período, o desafio será algo assim:
 
-Não se preocupe, não precisa ser algo complexo. Caso muitas pessoas fiquem sem grupo, faremos um sorteio para incluí-las em algum.
+Vocês deverão se juntar com 5 a 7 pessoas e tentar entregar um projeto para o portfólio colaborativo.
+
+Não se preocupem, não precisa ser algo complexo. Caso muitas pessoas fiquem sem grupo, faremos um sorteio para incluí-las em algum.
