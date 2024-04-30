@@ -2,9 +2,11 @@
 Bootcamp Santander 2024
 ---
 
-## Objetivo:
+## 🎯 Objetivo:
 
-🎯 O foco do projeto é demonstrar a comunidade trabalhando de forma colaborativa. Ao final do bootcamp, pretendemos criar um artigo no LinkedIn e na DIO, marcando todos que participaram dos projetos.
+O foco do projeto é demonstrar a comunidade trabalhando de forma colaborativa. Ao final do bootcamp, pretendemos criar um artigo no LinkedIn e na DIO, marcando todos que participaram dos projetos.
+
+Esse artigo será uma narrativa de todo o processo pelo qual a comunidade passou durante o bootcamp.Desde os primeiros passos até os momentos finais, iremos destacar a jornada de colaboração e trabalho em equipe.
 
 ---
 
