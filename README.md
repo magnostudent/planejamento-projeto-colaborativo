@@ -20,4 +20,4 @@ A proposta é incentivar a comunidade a formar pequenos grupos paralelos de pess
 
 - Deve estar participando do Bootcamp Santander 2024.
 - Deve estar em alguma equipe.
-- O líder da equipe deve entregar o projeto para ser Incluso dentro do portfólio da comunidade, antes do término do bootcamp.
+- O líder da equipe deve entregar o projeto para ser Incluso dentro do portfólio, antes do término do bootcamp.
